@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": "Dnipro National University",
+            "subtitle": "Software Engineering",
+            "dateText": "09/21 – 06/24"
+        },
+        {
+            "title": "Rocket-and-Space Engineering College of Oles Honchar, Dnipro",
+            "subtitle": "Software Engineering",
+            "dateText": "09/17 – 06/21"
+        }
+    ]
+}
