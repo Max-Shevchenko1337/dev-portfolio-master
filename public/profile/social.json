@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/maksym-shevchenko1337/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Max-Shevchenko1337"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:goldennthree@gmail.com"
+        }
+    ]
+}

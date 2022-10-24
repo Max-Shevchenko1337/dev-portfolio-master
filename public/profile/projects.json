@@ -1,0 +1,130 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "React Portfolio",
+            "bodyText": "- Portfolio Website made in React\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/dev-portfolio-master"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://max-shevchenko1337.github.io/dev-portfolio-master/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript",
+                "Bootstrap"
+            ]
+        },
+        {
+            "image" : "images/projects/todo.png",
+            "title": "To Do List",
+            "bodyText": "- Todo Website made in React\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/to-do-for-junior"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://max-shevchenko1337.github.io/to-do-for-junior/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "todo",
+                "javascript",
+                "tailwind"
+
+            ]
+        },
+        {
+            "image" : "images/projects/player.png",
+            "title": "Music Player",
+            "bodyText": "- Build the music player app using Javascript.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/music-player-"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://max-shevchenko1337.github.io/music-player-/"
+                }
+            ],
+            "tags" : [
+                "Music Player",
+                "Javascript",
+                "Layout"
+            ]
+        },
+        {
+            "image" : "images/projects/currency.png",
+            "title": "Currency-converter-master",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/Currency-converter-master"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://max-shevchenko1337.github.io/Currency-converter-master/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/todotest.png",
+            "title": "CRUD-TODO",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/CRUD-TODO"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Javascript"
+
+            ]
+        },
+        {
+            "image" : "images/projects/test.png",
+            "title": "Radency test task",
+            "bodyText": "- Test task JavaScipt",
+             "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/Radency-test-task"
+                }
+            ],
+            "tags" : [
+               "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/test.png",
+            "title": "Ekta test task",
+            "bodyText": "- Test task JavaScipt",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/EktaTestTask"
+                }
+            ],
+            "tags" : [
+                "JavaScript"
+            ]
+        }
+    ]
+}
