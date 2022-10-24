@@ -7,24 +7,24 @@
     "sections": [
         {
             "title": "Home",
-            "href": "/dev-portfolio-master/"
+            "href": "/"
         },
         {
             "title": "About",
-            "href": "/dev-portfolio-master/about"
+            "href": "/about"
         },
         {
             "title": "Skills",
-            "href": "/dev-portfolio-master/skills"
+            "href": "/skills"
         },
         {
             "title": "Education",
-            "href": "/dev-portfolio-master/education"
+            "href": "/education"
         },
 
         {
             "title": "Projects",
-            "href": "/dev-portfolio-master/projects"
+            "href": "/projects"
         },
         {
             "title": "Resume",
