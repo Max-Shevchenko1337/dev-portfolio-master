@@ -68,7 +68,7 @@ function Education(props) {
                       </h2>
                       <div style={styles.subtitleContainerStyle}>
                         <h4 style={{ ...styles.subtitleStyle, color: theme.accentColor }}>
-                          {item.Subtitle}
+                          {item.subtitle}
                         </h4>
                       </div>
                     </TimelineItem>

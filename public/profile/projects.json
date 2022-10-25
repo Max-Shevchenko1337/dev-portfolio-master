@@ -66,7 +66,7 @@
         {
             "image" : "images/projects/currency.png",
             "title": "Currency-converter-master",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "bodyText": " React app",
             "links": [
                 {
                     "text": "GitHub",
@@ -85,7 +85,7 @@
         {
             "image" : "images/projects/todotest.png",
             "title": "CRUD-TODO",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "bodyText": " todo react app",
             "links": [
                 {
                     "text": "GitHub",

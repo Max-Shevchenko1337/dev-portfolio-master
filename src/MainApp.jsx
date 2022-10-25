@@ -4,6 +4,7 @@ import FallbackSpinner from './components/FallbackSpinner';
 import NavBarWithRouter from './components/NavBar';
 import Home from './components/Home';
 import endpoints from './constants/endpoints';
+import {Redirect} from "react-router";
 
 function MainApp() {
   const [data, setData] = useState(null);
@@ -23,7 +24,8 @@ function MainApp() {
       <main className="main">
         <Switch>
           <Suspense fallback={<FallbackSpinner />}>
-            <Route exact path="/" component={Home} />
+            <Redirect exact from="/" to="/" />
+            <Route exact path="/"  component={Home} />
             {data
               && data.sections.map((route) => {
                 const SectionComponent = React.lazy(() => import('./components/' + route.component));
