@@ -1,6 +1,25 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/netflix.png",
+            "title": "Netflix Clone",
+            "bodyText": "- \n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/Netflix-clone"
+                }
+                
+            ],
+            "tags" : [
+                "React",
+                "Netflix",
+                "TypeScript",
+                "Redux",
+                "Webpack"
+            ]
+        },
+        {
             "image" : "images/projects/portfolio.png",
             "title": "React Portfolio",
             "bodyText": "- Portfolio Website made in React\n",
