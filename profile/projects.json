@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/netflix.png",
             "title": "Netflix Clone",
-            "bodyText": "- \n",
+            "bodyText": "-",
             "links": [
                 {
                     "text": "GitHub",
