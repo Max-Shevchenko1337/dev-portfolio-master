@@ -1,9 +1,49 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/portfolio.png",
+            "title": "React Portfolio",
+            "bodyText": "- Portfolio Website made in React\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/dev-portfolio-master"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://max-shevchenko1337.github.io/dev-portfolio-master/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript",
+                "Bootstrap"
+            ]
+        },
+          {
+            "image" : "images/projects/hotel.jpg",
+            "title": "Hotel React Native",
+                "bodyText": "- Hotel App on React Native \n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Max-Shevchenko1337/Netflix-clone"
+                }
+
+            ],
+            "tags" : [
+                "React",
+                "Netflix",
+                "TypeScript",
+                "Redux",
+                "Webpack"
+            ]
+        },
+        {
             "image" : "images/projects/netflix.png",
             "title": "Netflix Clone",
-            "bodyText": "-",
+            "bodyText": "- Netflix Clone made in React\n",
             "links": [
                 {
                     "text": "GitHub",
