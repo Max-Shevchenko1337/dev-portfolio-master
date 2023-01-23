@@ -1,0 +1,14 @@
+{
+  "experience":[
+    {
+      "title": "Di Techno",
+      "subtitle": "Middle React Native Developer",
+      "dateText": "08/22 – 01/23"
+    },
+    {
+      "title": "ABC Solutions",
+      "subtitle": "Junior React/React Native Developer",
+      "dateText": "07/21 – 08/22"
+    }
+  ]
+}
