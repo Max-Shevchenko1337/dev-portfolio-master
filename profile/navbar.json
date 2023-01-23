@@ -19,7 +19,11 @@
         },
         {
             "title": "Experience",
-            "href": "/Experience"
+            "href": "/experience"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
         },
         {
             "title": "Projects",
